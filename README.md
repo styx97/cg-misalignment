@@ -1,1 +1,1 @@
-# common-ground-misalignment
+# cg-misalignment

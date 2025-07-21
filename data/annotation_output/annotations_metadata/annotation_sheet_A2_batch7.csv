@@ -1,0 +1,21 @@
+Conversation ID,Time Taken,Conversational Friction (Y/N) ,Conversational Success ,Ending,Type
+5.38513,2,Yes,No Progress,Conversation Ended Abruptly,Type 1 
+6.19037,3,No,Success,Conversation had a natural End,Type 1 
+7.14036,2,No,Success,Conversation had a natural End,Type 1 
+9.336,3,No,No Progress,Conversation had a natural End,Type 1 
+16.1156,3,No,Success,Conversation had a natural End,Type 1 
+21.139,5,Yes,No Progress,Conversation had a natural End,Type 1 
+23.419,10,Yes,Some Progress,Conversation Ended Abruptly,Type 1 
+25.57,2,No,Some Progress,Conversation Ended Abruptly,Type 1 
+31.58,5,No,No Progress,Conversation had a natural End,Type 1 
+31.88,10,Yes,No Progress,Conversation Ended Abruptly,Type 1 
+33.46,5,No,Some Progress,Conversation had a natural End,Type 1 
+33.68,3,No,Some Progress,Conversation had a natural End,Type 1 
+53.2,5,No,No Progress,Conversation had a natural End,Type 1 
+56.4,5,No,Some Progress,Conversation had a natural End,Type 1 
+60.5,15,Yes,No Progress,Conversation had a natural End,Type 1 
+66.2,5,Yes,Success,"Conversation had a natural End , Conversation Ended Abruptly",Type 1 
+70.1,10,No,No Progress,Conversation Ended Abruptly,Type 1 
+71.2,10,Yes,Success,Someone ran out of time,Type 1 
+72.1,7,Yes,No Progress,Conversation had a natural End,Type 1 
+76.2,10,Yes,Success,Conversation had a natural End,Type 1 
